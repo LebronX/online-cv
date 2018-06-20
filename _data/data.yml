@@ -66,7 +66,21 @@ projects:
         tagline: "A responsive website template designed to help web developers/designers market their services."
  
 
-
+projects:
+    title: Projects
+    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    
+    projects:
+      - project:
+        title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - project:
+        title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+ 
  
 
 publications:
@@ -75,18 +89,14 @@ publications:
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: Third-class Scholarship
+        authors: Sun Yat-sen University, 2017
+        conference: 
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        title: Honorable Mention Award for COMAP's International Mathematical Contest in Modeling
+        authors: Sun Yat-sen University, 2018
+        conference: 
+      
 
 skills:
     title: Skills &amp; Proficiency
