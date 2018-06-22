@@ -66,18 +66,7 @@ projects:
         tagline: "A responsive website template designed to help web developers/designers market their services."
  
 
-    title: Experience
-    intro: "111"
     
-    projects:
-      - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
  
  
 
